@@ -1,0 +1,1 @@
+cabal run circle -- -o output.svg -w 1000 -h 1000
